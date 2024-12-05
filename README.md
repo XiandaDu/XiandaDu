@@ -6,12 +6,12 @@
 - University of Waterloo - Undergrad in Computer Engineering ('27🧑‍🎓)
 <br/>
 
-## 💼 I am looking for 2024 Sept to 2024 Dec Software Developer Intern
- 🌐 I'm looking for React/Vue posiitons
+## 💼 I am looking for 2025 May to 2025 Aug Software Developer Intern
+ 🌐 I'm looking for AI posiitons
  
- ☕ I'm good at Java/Spring Boot related backend development
+ ☕ I'm good at React/Express/Spring related full-stack development
  
- 🤖 I'm keen in working on Machine Learning or Computer Vision
+ 🤖 I'm keen in working on program testing/QA as well
 
 <br/>
 
