@@ -33,10 +33,11 @@
 ## ⚒️ Frameworks, Languages and Tools
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,spring,express,vite,aws,docker,git,github,gitlab,npm" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,mysql,mongodb,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwindcss,mui,bootstrap,threejs,figma,nginx,jenkins,selenium,pytorch,sklearn,tensorflow,linux,powershell,maven" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,vercel,heroku,matlab,vim,vscode,eclipse,clion,idea,pycharm,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,spring,express,vite,vue,npm,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,git,github,gitlab,mysql,postgres,mongodb,redis,jquery,hibernate" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,java,r,matlab,html,css,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,mui,bootstrap,threejs,figma,nginx,jenkins,selenium,pytorch,sklearn,tensorflow,opencv,linux,ubuntu,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vercel,netlify,heroku,vim,vscode,eclipse,clion,idea,pycharm,ps,pr" />
 </div>
 <br/><br/>
 
