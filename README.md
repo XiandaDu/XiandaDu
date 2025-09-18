@@ -4,15 +4,17 @@
 
 ## 🎓 Education 
 - University of Waterloo - Undergrad in Computer Engineering ('27🧑‍🎓)
+- CGPA: 4.0 out 4.0 until Sept 2025.
+- Publications in ACL 2025 ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)).
+  _Tags: NLP, LLM, Bnchmark, RAG, Geology_
 <br/>
 
-## 💼 I am looking for 2025 May to 2025 Aug Software Developer Intern
- 🌐 I'm looking for AI posiitons
+## 💼 I am looking for 2026 Jan to 2026 Apr AI/ML Developer or Researcher Intern
+ 🌐 I'm looking for NLP's AI posiitons
  
- ☕ I'm good at React/Express/Spring related full-stack development
- 
- 🤖 I'm keen in working on program testing/QA as well
+ ☕ I have research experiences in Computer Vision
 
+ 🤖 I'm good at React/Express/Spring based full-stack development as well
 <br/>
 
 ## 🤝 Feel free to get in touch
