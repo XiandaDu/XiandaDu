@@ -9,7 +9,7 @@
   _Tags: NLP, LLM, Bnchmark, RAG, Geology_
 <br/>
 
-## 💼 I am looking for 2026 Jan to 2026 Apr AI/ML Developer or Researcher Intern
+## 💼 I am looking for 2026 Sept to 2026 Dec AI/ML Developer or Researcher Intern
  🌐 I'm looking for NLP's AI posiitons
  
  ☕ I have research experiences in Computer Vision
