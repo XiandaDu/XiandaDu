@@ -4,10 +4,39 @@
 
 ## 🎓 Education 
 - University of Waterloo - Undergrad in Computer Engineering ('27🧑‍🎓)
-- CGPA: 4.0 out 4.0 until Sept 2025.
+- CGPA: 4.0 out 4.0 until April 2026.
 - Publications in ACL 2025 ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)).
   _Tags: NLP, LLM, Bnchmark, RAG, Geology_
 <br/>
+
+## Research
+
+**Research Assistant — McGill University**
+*Advisor: Prof. Renee Sieber*
+
+* **WXImpactBench**  
+  Developed a benchmark dataset and evaluation framework for assessing large language models on multi-label classification and retrieval-ranking of societal impacts from historical weather disaster records.  
+  *Publication:* ACL 2025 Findings ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)) _Tags: NLP, LLM, Bnchmark, RAG, Geology_
+* **WeatherArchive-Bench**
+  Constructed a large-scale benchmark (1M+ archival segments) to evaluate AI retrieval and climate vulnerability/resilience assessment aligned with IPCC frameworks.
+* **WXChat**
+  Built a large-scale archival newspaper dataset using adaptive image preprocessing, multi-column segmentation, and LLM-based post-correction for high-quality text extraction.
+
+---
+
+**Research Assistant — University of Waterloo**
+*Advisor: Prof. En-Hui Yang*
+
+* **Noise-Injection Analysis**
+  Studied the effects of Gaussian noise injection and adversarial perturbations on intermediate feature representations across layers of a pretrained ResNet-18.
+
+---
+
+**Research Assistant — University of Waterloo**
+*Advisor: Prof. Wenhu Chen*
+
+* **VIEScore2**
+  Developing a unified supervised fine-tuning framework for training vision-language models on image quality evaluation with visual grounding across diverse generation tasks.
 
 ## 💼 I am looking for 2026 Sept to 2026 Dec AI/ML Developer or Researcher Intern
  🌐 I'm looking for NLP's AI posiitons
