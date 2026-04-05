@@ -9,7 +9,7 @@
   _Tags: NLP, LLM, Benchmark, RAG, Climate Science_
 <br/>
 
-## Research
+## 🔎 Research
 
 **Research Assistant — McGill University** | *Advisor: [Prof. Renee Sieber](https://www.mcgill.ca/geography/sieber)*
 * [**WeatherArchive-Bench**](https://github.com/Weather-Archival-Rescue/WeatherArchive-Bench) — Benchmark for retrieval-augmented reasoning over 1M+ archival news segments with IPCC-aligned vulnerability assessment. *(SIGIR 2026)*
@@ -40,7 +40,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.allendu.me" target="_blank">
-     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=/e/&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://cv.allendu.me" target="_blank">
+    <img src="https://img.shields.io/badge/CV-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank" />
   </a>
 </div>
 <br/>
