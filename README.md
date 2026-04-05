@@ -5,43 +5,27 @@
 ## 🎓 Education 
 - University of Waterloo - Undergrad in Computer Engineering ('27🧑‍🎓)
 - CGPA: 4.0 out 4.0 until April 2026.
-- Publications in ACL 2025 ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)).
-  _Tags: NLP, LLM, Bnchmark, RAG, Geology_
+- Publications in ACL 2025 ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)) and SIGIR 2026 ([Paper](https://arxiv.org/pdf/2510.05336)).
+  _Tags: NLP, LLM, Benchmark, RAG, Climate Science_
 <br/>
 
 ## Research
 
-**Research Assistant — McGill University**
-*Advisor: Prof. Renee Sieber*
+**Research Assistant — McGill University** | *Advisor: [Prof. Renee Sieber](https://www.mcgill.ca/geography/sieber)*
+* [**WeatherArchive-Bench**](https://github.com/Weather-Archival-Rescue/WeatherArchive-Bench) — Benchmark for retrieval-augmented reasoning over 1M+ archival news segments with IPCC-aligned vulnerability assessment. *(SIGIR 2026)*
+* [**WXImpactBench**](https://github.com/Weather-Archival-Rescue/WXImpactBench) — First benchmark for evaluating LLMs on multi-label classification and ranking of disruptive weather impacts. *(ACL 2025 Findings)*
+* [**WXChat**](https://github.com/Weather-Archival-Rescue/WXChat) — Large-scale archival newspaper digitization pipeline with layout-aware OCR and LLM-based post-correction.
 
-* **WXImpactBench**  
-  Developed a benchmark dataset and evaluation framework for assessing large language models on multi-label classification and retrieval-ranking of societal impacts from historical weather disaster records.  
-  *Publication:* ACL 2025 Findings ([Paper](https://aclanthology.org/2025.findings-acl.207.pdf)) _Tags: NLP, LLM, Bnchmark, RAG, Geology_
-* **WeatherArchive-Bench**
-  Constructed a large-scale benchmark (1M+ archival segments) to evaluate AI retrieval and climate vulnerability/resilience assessment aligned with IPCC frameworks.
-* **WXChat**
-  Built a large-scale archival newspaper dataset using adaptive image preprocessing, multi-column segmentation, and LLM-based post-correction for high-quality text extraction.
+**Research Assistant — University of Waterloo** | *Advisor: [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
+* [**VIEScore2**](https://github.com/vinesmsuic/VIEScore2) — Unified SFT framework for vision-language models on image quality assessment with visual grounding.
 
----
-
-**Research Assistant — University of Waterloo**
-*Advisor: Prof. En-Hui Yang*
-
-* **Noise-Injection Analysis**
-  Studied the effects of Gaussian noise injection and adversarial perturbations on intermediate feature representations across layers of a pretrained ResNet-18.
-
----
-
-**Research Assistant — University of Waterloo**
-*Advisor: Prof. Wenhu Chen*
-
-* **VIEScore2**
-  Developing a unified supervised fine-tuning framework for training vision-language models on image quality evaluation with visual grounding across diverse generation tasks.
+**Undergraduate Research Assistant — University of Waterloo** | *Advisor: [Prof. En-Hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang)*
+* [**Noise-Injection Analysis**](https://github.com/XiandaDu/Noise-Injection-Analysis) — Analysis of Gaussian noise and adversarial perturbations on intermediate representations in pretrained ResNet-18.
 
 ## 💼 I am looking for 2026 Sept to 2026 Dec AI/ML Developer or Researcher Intern
- 🌐 I'm looking for NLP's AI posiitons
+ 🌐 I'm looking for AI related internship and/or research positions
  
- ☕ I have research experiences in Computer Vision
+ ☕ I have research experiences in NLP, Information Retrieval and VLM
 
  🤖 I'm good at React/Express/Spring based full-stack development as well
 <br/>
