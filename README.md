@@ -19,6 +19,9 @@
 **Research Assistant — University of Waterloo** | *Advisor: [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
 * [**VIEScore2**](https://github.com/vinesmsuic/VIEScore2) — Unified SFT framework for vision-language models on image quality assessment with visual grounding.
 
+**Independent Research Assistant — Université de Montréal** | 
+* [**ScaleSeek**]() — Agentic Search. In progress. 
+
 **Undergraduate Research Assistant — University of Waterloo** | *Advisor: [Prof. En-Hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang)*
 * [**Noise-Injection Analysis**](https://github.com/XiandaDu/Noise-Injection-Analysis) — Analysis of Gaussian noise and adversarial perturbations on intermediate representations in pretrained ResNet-18.
 
